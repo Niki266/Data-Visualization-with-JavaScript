@@ -4,6 +4,13 @@ Welcome to **Data Visualization with JavaScript**, an engaging project that brin
 
 ![image](https://github.com/user-attachments/assets/9f25cf00-5717-4acd-bcfa-07ad8f065143)
 
+## How to Use
+
+1. Download the Project or Clone the repository
+2. You can directly open index.html by double-clicking it 
+
+✨ **Transform data into impactful stories!**
+
 ## 🚀 Features
 
 - **Multiple Chart Types**:
@@ -35,10 +42,3 @@ Data-Visualization-with-JavaScript-main
     ├── pie-chart.js              # Code for Pie Chart visualization
     ├── ...                       # Other visualization scripts
 ```
-
-## How to Use
-
-1. Download the Project or Clone the repository
-2. You can directly open index.html by double-clicking it 
-
-✨ **Transform data into impactful stories!**
