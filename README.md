@@ -7,7 +7,7 @@ Welcome to **Data Visualization with JavaScript**, an engaging project that brin
 ## How to Use
 
 1. Download the Project or Clone the repository
-2. You can directly open index.html by double-clicking it 
+2. You can directly open `index.html` by double-clicking it 
 
 ✨ **Transform data into impactful stories!**
 
