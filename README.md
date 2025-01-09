@@ -41,4 +41,4 @@ Data-Visualization-with-JavaScript-main
 1. Download the Project or Clone the repository
 2. You can directly open index.html by double-clicking it 
 
-✨ **Transform data into impactful stories—start exploring the visualizations today!**
+✨ **Transform data into impactful stories!**
