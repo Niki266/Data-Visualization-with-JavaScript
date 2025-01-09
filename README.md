@@ -1,5 +1,3 @@
-# Data Visualization with JavaScript 📊
-
 Welcome to **Data Visualization with JavaScript**, an engaging project that brings data to life with dynamic and interactive visualizations! This repository showcases how HTML, CSS, and JavaScript can be combined to create stunning data visualizations for various datasets. Explore, learn, and be inspired to build your own visualizations.
 
 ![image](https://github.com/user-attachments/assets/9f25cf00-5717-4acd-bcfa-07ad8f065143)
@@ -9,7 +7,7 @@ Welcome to **Data Visualization with JavaScript**, an engaging project that brin
 1. Download the Project or Clone the repository
 2. You can directly open `index.html` by double-clicking it 
 
-✨ **Transform data into impactful stories!**
+📊 **Transform data into impactful stories!**
 
 ## 🚀 Features
 
