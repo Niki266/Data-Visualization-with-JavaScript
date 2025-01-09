@@ -22,12 +22,6 @@ Welcome to **Data Visualization with JavaScript**, an engaging project that brin
 - **Interactive Elements**: Hover and click to explore the data in-depth.
 - **Data-Driven Insights**: Gain insights from real-world datasets on topics like gender diversity, pay gaps, and climate change.
 
-## 🛠️ Technology Stack
-
-- **HTML5**: Markup for structuring the web pages.
-- **CSS3**: Styling the visualizations for an aesthetically pleasing experience.
-- **JavaScript**: Core logic for interactivity and visualization.
-
 ## 📂 Project Structure
 
 ```
@@ -42,3 +36,8 @@ Data-Visualization-with-JavaScript-main
     ├── pie-chart.js              # Code for Pie Chart visualization
     ├── ...                       # Other visualization scripts
 ```
+## 🛠️ Technology Stack
+
+- **HTML5**: Markup for structuring the web pages.
+- **CSS3**: Styling the visualizations for an aesthetically pleasing experience.
+- **JavaScript**: Core logic for interactivity and visualization.
